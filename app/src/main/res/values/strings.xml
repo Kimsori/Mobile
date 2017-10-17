@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Time</string>
+
+    <string-array name="Time">
+        <item>PM 6:00~</item>
+        <item>PM 8:00~</item>
+        <item>PM 10:00~</item>
+        <item>PM 12:00~</item>
+    </string-array>
+</resources>
